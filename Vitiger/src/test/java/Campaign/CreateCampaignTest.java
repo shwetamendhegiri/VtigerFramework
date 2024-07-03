@@ -14,7 +14,7 @@ import ObjectRepository.HomePage;
 
 public class CreateCampaignTest extends BaseClass {
 
-    //pushOne1
+    //pushOne2
 	@Test
 	public void createCampaignTest() throws Throwable {
 		HomePage home = new HomePage(driver);
